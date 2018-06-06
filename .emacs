@@ -73,3 +73,4 @@
 (setq utf-translate-cjk-mode nil)
 
 (set-face-attribute 'default nil :height 90)
+(tabbar-mode)
