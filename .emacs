@@ -54,6 +54,7 @@
 ;; Neotree config
 (require 'neotree)
 (global-set-key (kbd "C-x C-a") 'neotree-toggle)
+(global-set-key (kbd "C-0") 'neotree-stretch-toggle)
 
 ;; Evil config
 (require 'evil)
